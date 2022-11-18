@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-lesson-02-colorpicker/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-lesson-02-colorpicker/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-lesson-02-colorpicker/static/css/main.e4604a97.css",
+    "main.js": "/goit-react-lesson-02-colorpicker/static/js/main.fa4c0937.js",
     "index.html": "/goit-react-lesson-02-colorpicker/index.html",
-    "main.7acaea2f.css.map": "/goit-react-lesson-02-colorpicker/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-lesson-02-colorpicker/static/js/main.07d3183d.js.map"
+    "main.e4604a97.css.map": "/goit-react-lesson-02-colorpicker/static/css/main.e4604a97.css.map",
+    "main.fa4c0937.js.map": "/goit-react-lesson-02-colorpicker/static/js/main.fa4c0937.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.e4604a97.css",
+    "static/js/main.fa4c0937.js"
   ]
 }
